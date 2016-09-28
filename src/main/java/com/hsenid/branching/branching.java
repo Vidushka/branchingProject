@@ -1,5 +1,7 @@
 package src.main.java.com.hsenid.branching;
 
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 /**
  * Created by hsenid on 9/28/16.
  */
@@ -18,7 +20,12 @@ public class branching {
                 else
                     System.out.print("*");
             }
+<<<<<<< Updated upstream
             System.out.println("-----------------------");
+=======
+            System.out.println();
+            System.out.println("Master branch updated");
+>>>>>>> Stashed changes
         }
     }
 }
