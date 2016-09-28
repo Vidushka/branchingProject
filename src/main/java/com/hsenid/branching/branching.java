@@ -20,9 +20,9 @@ public class branching {
                 else
                     System.out.print("*");
             }
-
-            System.out.println();
-            System.out.println("commit after push a tag");
+        /*
+        content from master branch
+         */
         }
     }
 }
