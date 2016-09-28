@@ -18,7 +18,7 @@ public class branching {
                 else
                     System.out.print("*");
             }
-            System.out.println("------------------------");
+            System.out.println("-----------------------");
         }
     }
 }
