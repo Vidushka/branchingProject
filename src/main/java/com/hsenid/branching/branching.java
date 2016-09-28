@@ -20,12 +20,9 @@ public class branching {
                 else
                     System.out.print("*");
             }
-<<<<<<< Updated upstream
-            System.out.println("-----------------------");
-=======
+
             System.out.println();
             System.out.println("Master branch updated");
->>>>>>> Stashed changes
         }
     }
 }
